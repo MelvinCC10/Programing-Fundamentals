@@ -3,7 +3,6 @@ The purpose of this lab is to gain practice using variables for basic user input
 Your friend has approached you, asking to write a program to help sort files on a media server. You want to show your friend a proof of concept for a program that can take data entry, and can output processed data.
 
 # Constraints:
-
 Do not use any concepts beyond the current chapter, unless explicitly stated in the tasks below
 
 # Task 1: Setup Variables
