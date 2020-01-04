@@ -1,0 +1,25 @@
+Movie Title: Raising_Arizona
+Budget: $6000000.00
+Gross: $22847564.00
+Profit Margin: $16847564.00
+
+Movie Title: Vampire's_Kiss
+Budget: $2000000.00
+Gross: $725131.00
+Profit Margin: $-1274869.00
+
+Movie Title: The_Wicker_Man
+Budget: $40000000.00
+Gross: $23643531.00
+Profit Margin: $-16356469.00
+
+Movie Title: The_Ice_Pirates
+Budget: $9000000.00
+Gross: $13075390.00
+Profit Margin: $4075390.00
+
+Movie Title: Krull
+Budget: $47000000.00
+Gross: $16519460.00
+Profit Margin: $-30480540.00
+
