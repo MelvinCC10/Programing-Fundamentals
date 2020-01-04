@@ -21,7 +21,6 @@ void report(string, string, string, string, string, int&, int&, int&, int&, int&
 
 int main()
 {
-
 	string unsortedMediaFile = "unsorted_media.txt";
 	string musicFile = "music.txt";
 	string movieFile = "movies.txt";
